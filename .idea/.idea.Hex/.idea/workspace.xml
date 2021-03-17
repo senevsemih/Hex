@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f416814d-8bb0-4c57-805a-f00e04af574d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/SO/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/Ball/RayLineController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/DummyRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/DummySlide.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/Managers/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hex/Scripts/Managers/Singleton/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/IDummy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Ball/BallRayLineController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/SO/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/SO/RayLine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/AA.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/SO/LevelManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Camera/CameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Managers/CameraManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Managers/UIManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Managers/Singleton/Singleton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Ball/RayLineController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Ball/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/DummyController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/DummyRotate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Hex/Scripts/Dummy/DummySlide.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1ppXkF13FKKPlWGeSFvyDep0UHk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
