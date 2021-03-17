@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level 2.unity
+    guid: 469aef3c5cd6bfb40ba3f269bcfbc5c9
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level 3.unity
+    guid: 41c6a2558ed475542a8e42dec9be0d77
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level 4.unity
+    guid: fababb7818d7a0f43932b18d5b77901e
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level 5.unity
+    guid: b274098c3e00f364e815a95718a85cd8
+  - enabled: 1
+    path: Assets/Hex/Scenes/Level End.unity
+    guid: 9e41a3313b34c854d8990099856d1efc
   m_configObjects: {}
