@@ -11,6 +11,10 @@
 <p><strong><em>-!!!-</em></strong>
 </p>
 <p>Purple dummies are not working correctly</p>
+<p></p>
+<p><strong><em>-For Play-</em></strong>
+</p>
+<p>https://senevsemih.itch.io/hex</p>
 </p>
 <p><strong><em>-Gameplay-</em></strong>
 </p>
